@@ -22,8 +22,5 @@ The objective of this step is to clean noise those are less relevant to find the
 
 # Model Building
 
-I used here 
-Logistic Regression
-Decision Tree
-XGBoost
+I used here 3 model - Logistic Regression, Decision Tree & XGBoost
 
